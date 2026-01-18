@@ -1,0 +1,19 @@
+
+/* Header Style */
+
+/*Third section*/
+.third-hightlight-wrapper {
+	background-image: url("../../assets/images/home/iphone11-pro-bg.jpg");
+	/* background-image: url("./assets/images/icons/Sixteen.png"); */
+	height: 580px;
+	background-position: center;
+	background-repeat: no-repeat;
+  background-size: cover;
+	text-align: center;
+	padding: 65px 20px;
+	color: #fff;
+}
+
+/*Media Query*/
+/* Footer */
+
