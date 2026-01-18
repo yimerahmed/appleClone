@@ -42,7 +42,7 @@ function App() {
             <Route path="/search" element={<Search />} />
             <Route path="/cart" element={<Cart />} />
             <Route path="/iphones" element={<Iphone />} />
-            <Route path="/iphones/:Product_Id" element={<ProductPage />} />
+            <Route path="/iphone/:Product_Id" element={<ProductPage />} />
             <Route path="*" element={<FourO4 />} />
           </Route>
         </Routes>
